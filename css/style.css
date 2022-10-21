@@ -1,0 +1,17 @@
+.center{
+    text-align: center;
+}
+body{
+    background-color: #BC8F8F;
+}
+.tooltip{
+    align-items: center;
+}
+h1, h4{
+color:#FFEBCD;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+padding:40px;
+}
+h4{
+    padding:0
+}
