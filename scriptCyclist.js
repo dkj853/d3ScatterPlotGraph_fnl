@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   req = new XMLHttpRequest();
-  req.open("GET", "/cyclist-data.json", true)
+  // req.open("GET", "/cyclist-data.json", true)
+  req.open("GET", "./cyclist-data.json")
 
   req.send()
 
